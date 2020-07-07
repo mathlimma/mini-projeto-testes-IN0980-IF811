@@ -1,9 +1,9 @@
-## Repositorio para inicio do mini projeto de testes
+# Repositorio para inicio do mini projeto de testes
 
     - Matheus Lima
     - Emmanuel Nery
 
-    hospedado em:
+    hospedado em: https://mathlimma.github.io/mini-projeto-testes-IN0980-IF811-/#/
 
 # Para adicionar mais páginas na nav bar devemos apenas entrar no arquivo \_navbar.md e adicionar uma nova linha ex:
 
