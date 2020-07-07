@@ -10,8 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 Mauris nunc congue nisi vitae suscipit. Feugiat scelerisque varius morbi enim. Magna sit amet purus gravida quis blandit turpis cursus.
 
-
-[LABEL](https://gist.githubusercontent.com/mathlimma/5bad35f47d3e7db86b6a27079fd71ac2/raw/54395a42a67c41ce93ee95a6991e1df794568785/example.test.js ':include :type=code')
+[LABEL](https://gist.githubusercontent.com/mathlimma/5bad35f47d3e7db86b6a27079fd71ac2/raw/54395a42a67c41ce93ee95a6991e1df794568785/example.test.js ":include :type=code")
 
 # Capitulo 3
 
